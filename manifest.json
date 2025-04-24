@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "New Tab Test",
+  "name": "WisePals",
   "version": "1.0",
-  "description": "Test new tab override functionality",
+  "description": "WisePals",
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },
