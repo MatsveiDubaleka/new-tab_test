@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "New Tab Test",
+  "version": "1.0",
+  "description": "Test new tab override functionality",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
